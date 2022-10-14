@@ -39,3 +39,5 @@ Come on, create PR!
 ## License
 
 You fucking kidding? This package is one structure, two funcs and 5 test cases! Don't mind, want patent it — go on, corpo freak
+
+<!-- some test change --> 
